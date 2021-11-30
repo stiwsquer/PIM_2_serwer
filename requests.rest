@@ -1,1 +1,1 @@
-GET http://localhost:3001/beer/ ?page=1&limit=5
+GET http://localhost:3001/beer/a?page=1&limit=2
